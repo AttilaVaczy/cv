@@ -1,0 +1,44 @@
+body {
+  color: #111;
+  margin: 0;
+}
+
+.main-container {
+  margin: 0 auto;
+  background-color: #FFF;
+  padding: 40px;
+  width: 50%;
+  position: absolute;
+  opacity: 0.7;
+}
+
+img {
+  width: 100%;
+  display: inline;
+  position: fixed;
+}
+
+li:before {
+ color: #37b878 ;
+ content: "■ ";
+}
+
+ul {
+ list-style: none;
+}
+
+p, li {
+  color: #111;
+}
+
+h1, span {
+  color: #111;
+}
+
+span {
+  font-weight: bold;
+}
+
+.summary, .skills, .works, .educations {
+  border-top: 2px solid #37b878;
+}
