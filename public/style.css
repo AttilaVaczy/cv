@@ -10,6 +10,7 @@ body {
   width: 50%;
   position: absolute;
   opacity: 0.7;
+  font-family: sans-serif;
 }
 
 img {
@@ -29,7 +30,7 @@ ul {
 
 p, li {
   color: #111;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 h1, span {
